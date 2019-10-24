@@ -5,7 +5,8 @@ Google, Amazon, Facebook, Microsoft, Netflix and Apple Employee Reviews
 Web scraped over 67k employee reviews for Google, Amazon, Facebook, Apple, Netflix and Microsoft
 
 
-Content
+#Content
+
 This dataset contains employee reviews separated into the following categories:
 
 Index: index
